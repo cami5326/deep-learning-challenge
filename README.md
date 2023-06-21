@@ -34,12 +34,12 @@
 
   * In order to optimize the model performance, I've randomly tried to:
 
-        1. Increase the number of neurons to 200 in the first layer and 100 for the second hidden layer, achieving 68% accuracy performance. 
+    1. Increase the number of neurons to 200 in the first layer and 100 for the second hidden layer, achieving 68% accuracy performance. 
         In a second attempt, I've decreased the number of epochs since the accuracy levels off at the 11 epochs iteration in the previous attempt, achieving 53% accuracy performance. 
 
-        2. Besides increasing the number neurons, I've added one more layer, keeping the epoch number to 150 iterations, achieving 57% accuracy performance. 
+    2. Besides increasing the number neurons, I've added one more layer, keeping the epoch number to 150 iterations, achieving 57% accuracy performance. 
 
-        3. Besides increasing the number neurons and layers, I've increased the epoch number to 300 iterations, achieving 55% accuracy performance.
+    3. Besides increasing the number neurons and layers, I've increased the epoch number to 300 iterations, achieving 55% accuracy performance.
     
 
 ## Summary
