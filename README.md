@@ -5,13 +5,14 @@
 * The purpose here is to analyze a dataset from a nonprofit foundation called 'Alphabet Soup' that wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. 
 
 
+
 ## Results
 
 * **Data Preprocessing:**
 
   * Target variable: 
   
-  **IS_SUCCESSFUL** — Was the money used effectively
+    **IS_SUCCESSFUL** — Was the money used effectively
 
   * Features variables: 
 
@@ -35,7 +36,8 @@
 
   * Variables removed from the input data because they are neither targets nor features: 
   
-  **EIN and NAME** — Identification columns
+    **EIN and NAME** — Identification columns
+
 
 
 * **Compiling, Training, and Evaluating the Model:**
@@ -53,6 +55,7 @@
 
     3. Besides increasing the number neurons and layers, I've increased the epoch number to 300 iterations, achieving 55% accuracy performance.
     
+
 
 ## Summary
 
