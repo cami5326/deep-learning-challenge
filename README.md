@@ -9,21 +9,33 @@
 
 * Data Preprocessing:
 
-  * Target variable: IS_SUCCESSFUL— Was the money used effectively
+  * Target variable: 
+  
+  **IS_SUCCESSFUL** — Was the money used effectively
 
   * Features variables: 
 
-    APPLICATION_TYPE—Alphabet Soup application type
-    AFFILIATION—Affiliated sector of industry
-    CLASSIFICATION—Government organization classification
-    USE_CASE—Use case for funding
-    ORGANIZATION—Organization type
-    STATUS—Active status
-    INCOME_AMT—Income classification
-    SPECIAL_CONSIDERATIONS—Special considerations for application
-    ASK_AMT—Funding amount requested
+    **APPLICATION_TYPE** — Alphabet Soup application type
 
-  * Variables removed from the input data because they are neither targets nor features: EIN and NAME—Identification columns
+    **AFFILIATION** — Affiliated sector of industry
+
+    **CLASSIFICATION** — Government organization classification
+
+    **USE_CASE** — Use case for funding
+
+    **ORGANIZATION** — Organization type
+
+    **STATUS** — Active status
+
+    **INCOME_AMT** — Income classification
+
+    **SPECIAL_CONSIDERATIONS** — Special considerations for application
+
+    **ASK_AMT** — Funding amount requested
+
+  * Variables removed from the input data because they are neither targets nor features: 
+  
+  **EIN and NAME** — Identification columns
 
 
 * Compiling, Training, and Evaluating the Model:
