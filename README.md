@@ -5,7 +5,6 @@
 * The purpose here is to analyze a dataset from a nonprofit foundation called 'Alphabet Soup' that wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. 
 
 
-
 ## Results
 
 * **Data Preprocessing:**
@@ -39,6 +38,7 @@
     **EIN and NAME** — Identification columns
 
 
+<br> 
 
 * **Compiling, Training, and Evaluating the Model:**
 
