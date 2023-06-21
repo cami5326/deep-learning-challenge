@@ -7,7 +7,7 @@
 
 ## Results
 
-* Data Preprocessing:
+* **Data Preprocessing:**
 
   * Target variable: 
   
@@ -38,7 +38,7 @@
   **EIN and NAME** — Identification columns
 
 
-* Compiling, Training, and Evaluating the Model:
+* **Compiling, Training, and Evaluating the Model:**
 
   * I've started the model randomly selecting 100 neurons for the first layer and 50 neurons for the second hidden layer. Also, I've chosen the ReLU activation function for the first and second hidden layer due to the multiple results property of the function. As for the output layer, that's a binary decision of either approve or not approve an applicant for funding, therefore, I used the Sigmoid activation function.
 
