@@ -41,11 +41,11 @@
 
 * **Compiling, Training, and Evaluating the Model:**
 
-  * I've started the model randomly selecting 100 neurons for the first layer and 50 neurons for the second hidden layer. Also, I've chosen the ReLU activation function for the first and second hidden layer due to the multiple results property of the function. As for the output layer, that's a binary decision of either approve or not approve an applicant for funding, therefore, I used the Sigmoid activation function.
+  * I've started the model randomly selecting 100 neurons for the first layer and 50 neurons for the second hidden layer. Also, I've chosen the ReLU activation function for the first and second hidden layer due to the multiple results property of the function. As for the output layer, that's a binary decision of either approve or not approve an applicant for funding, therefore, I used the Sigmoid activation function. This first model achieved 55% accuracy performance.
 
   ![Deep Learning Model Evaluation](https://github.com/cami5326/deep-learning-challenge/blob/main/AlphabetSoupCharity/Pictures/Deep%20Learning%20Model%20Evaluation.PNG)
 
-  * After 4 iterations, the models were not able to achieve the 75% target model performance. The closest accuracy performance achieved was 68% when I've increased the number of neurons in the first layer to 200 and the second hidden layer to 100 neurons.
+  * After 4 iterations, the models were not able to achieve the 75% target model performance. The highest accuracy performance achieved was 68% when I've increased the number of neurons in the first layer to 200 and the second hidden layer to 100 neurons.
 
   * In order to optimize the model performance, I've randomly tried to:
 
