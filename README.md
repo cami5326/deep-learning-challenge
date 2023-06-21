@@ -37,7 +37,6 @@
   
     **EIN and NAME** — Identification columns
 
-
 <br> 
 
 * **Compiling, Training, and Evaluating the Model:**
